@@ -6,7 +6,7 @@ public final class Constants {
 
     public static final int NEWS_NUM = 10;
     public static String SERVER_URL = "http://api.tianapi.com/";
-    public static String ALL_NEWS_PATH = "generalnews/index";
+    public static String ALL_NEWS_PATH = "bulletin/index";
     public static String GENERAL_NEWS_PATH = "generalnews/";
 
     public static String API_KEY = "5e216689f6b999e0fcf1086fc9f7c03e";
