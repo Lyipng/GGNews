@@ -9,7 +9,7 @@ public final class Constants {
     public static String ALL_NEWS_PATH = "generalnews/index";
     public static String GENERAL_NEWS_PATH = "generalnews/";
 
-    public static String API_KEY = "6bcaa6db1dd41fac01fd47ec5e8d58a3";
+    public static String API_KEY = "5e216689f6b999e0fcf1086fc9f7c03e";
 
     public static String ALL_NEWS_URL = SERVER_URL + ALL_NEWS_PATH;
     public static String GENERAL_NEWS_URL = SERVER_URL + GENERAL_NEWS_PATH;
